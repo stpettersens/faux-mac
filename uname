@@ -1,6 +1,6 @@
 #!/bin/sh
 # faux-mac shell scripts:
-# A `uname` which always returns 'Darwin'
+# A `uname` which always prints 'Darwin'
 # indicating a Darwin/Mac OS X environment
 echo 'Darwin'
 
